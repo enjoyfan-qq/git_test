@@ -1,4 +1,5 @@
 some text on line 1
 line 2 text
+yyyyy
 line 4 text
 line added after merge branch1 to master
